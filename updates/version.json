@@ -1,15 +1,15 @@
 {
-    "versionCode":  34,
-    "versionName":  "1.2.4",
-    "apkUrl":  "https://github.com/elad325/drivechat-updates/releases/download/v1.2.4/DriveChat-1.2.4.apk",
+    "versionCode":  35,
+    "versionName":  "1.2.5",
+    "apkUrl":  "https://github.com/elad325/drivechat-updates/releases/download/v1.2.5/DriveChat-1.2.5.apk",
     "apkSizeBytes":  4462830,
-    "apkSha256":  "093ab0357885a7a4a8d8112bcca4bd2466ff56a7a384246a7afd3ae523b096f5",
+    "apkSha256":  "53097fd118aa3f8a710fff74ddf3e9ef786f367addee07a55374030bf18dfbf9",
     "minAndroidSdk":  26,
     "minSupportedVersionCode":  1,
     "releaseNotes":  {
                          "en":  "Bug fixes and improvements",
                          "he":  "תיקוני באגים ושיפורים"
                      },
-    "forceUpdate":  false,
-    "publishedAt":  "2026-04-06T19:45:58Z"
+    "forceUpdate":  true,
+    "publishedAt":  "2026-04-06T20:40:51Z"
 }
