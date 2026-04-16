@@ -1,15 +1,15 @@
 {
-    "versionCode":  38,
-    "versionName":  "1.2.8",
-    "apkUrl":  "https://github.com/elad325/drivechat-updates/releases/download/v1.2.8/DriveChat-1.2.8.apk",
-    "apkSizeBytes":  6104754,
-    "apkSha256":  "28b528f0212f842d123ae45f67ed3e9c7e04e5f4f7716d414fe62ee6837f20c4",
+    "versionCode":  39,
+    "versionName":  "1.2.9",
+    "apkUrl":  "https://github.com/elad325/drivechat-updates/releases/download/v1.2.9/DriveChat-1.2.9.apk",
+    "apkSizeBytes":  6121138,
+    "apkSha256":  "72d5ab3e5cc47e13d528ba9ead74d207a5b3c7dbaf66f8e046a10951f8bc6975",
     "minAndroidSdk":  26,
     "minSupportedVersionCode":  1,
     "releaseNotes":  {
-                         "en":  "ok? or not \u0027 fuck off",
-                         "he":  "תיקון הורדה ישירה ומה שזה לא יהיה"
+                         "en":  "Bug fixes in fuzzy filename matching and improved support for Hebrew and diacritic characters",
+                         "he":  "תיקוני באגים בהתאמה פונטית של שמות קבצים ותמיכה משופרת בעברית ובתווים מיוחדים"
                      },
-    "forceUpdate":  true,
-    "publishedAt":  "2026-04-10T21:19:08Z"
+    "forceUpdate":  false,
+    "publishedAt":  "2026-04-16T22:37:01Z"
 }
